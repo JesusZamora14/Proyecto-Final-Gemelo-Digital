@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Matlab
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Jesus
+    family-names: Zamora Cervantes
+    email: l21212185@tectijuana.edu.mx
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/JesusZamora14/Proyecto-Final-Gemelo-Digital
+url: >-
+  https://github.com/JesusZamora14/Proyecto-Final-Gemelo-Digital
+abstract: Práctica Final Gemelo Digital
+keywords:
+  - Gemelo Digital
+  - Predicción 2t
+  - Matriz Jacobiana
+license: BSD-2-Clause
